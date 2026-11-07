@@ -1,4 +1,4 @@
-# 你好，我是 timlucke17-creator 👋
+# 你好，我是 Tim Nie 👋
 
 🎓 华东师范大学（ECNU）科学哲学本科生  
 🌱 正在学习 AI 产品管理，探索技术、产品与人的交汇处
@@ -16,4 +16,4 @@
 ## 找到我
 
 - 小红书：**@ASI退烧研究员**
-- X：**Ambient Techno1**
+- X：[@Ambient124](https://x.com/Ambient124)
