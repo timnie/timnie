@@ -11,7 +11,7 @@
 
 ## 项目
 
-📚 [Notes on Second-hand Reading](https://github.com/timnie/notes-on-second-hand-reading) — 整理二手文献阅读笔记的项目。
+📚 [Notes on Second-hand Reading](https://github.com/timnie/notes-on-second-hand-reading) — 面向中文读者的哲学二手文献 AI 辅助阅读 skill，正在重新设计。
 
 ## 找到我
 
