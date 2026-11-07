@@ -11,7 +11,7 @@
 
 ## 项目
 
-📚 [Notes on Second-hand Reading](https://github.com/timlucke17-creator/notes-on-second-hand-reading) — 整理二手文献阅读笔记的项目。
+📚 [Notes on Second-hand Reading](https://github.com/timnie/notes-on-second-hand-reading) — 整理二手文献阅读笔记的项目。
 
 ## 找到我
 
