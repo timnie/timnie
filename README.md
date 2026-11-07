@@ -16,4 +16,4 @@
 ## 找到我
 
 - 小红书：**@ASI退烧研究员**
-- X：[@Ambient124](https://x.com/Ambient124)
+- X：[@AmbientTechno1](https://x.com/AmbientTechno1)
